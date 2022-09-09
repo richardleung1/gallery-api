@@ -1,0 +1,19 @@
+{
+  "name": "gallery-api",
+  "version": "1.0.0",
+  "description": "--- track: \"Module 3\" title: \"Week 3 - Day 1\" week: 3 day: 1 type: \"lecture\" topics: \"Build API\" prereqs: 'Mod 1 & Mod 2, React, State, Props' ---",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5"
+  }
+}
